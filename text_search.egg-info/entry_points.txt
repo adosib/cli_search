@@ -1,0 +1,3 @@
+[console_scripts]
+text_search = cli_search.search:main
+

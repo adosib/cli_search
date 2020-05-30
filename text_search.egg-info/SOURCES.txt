@@ -1,0 +1,8 @@
+setup.py
+cli_search/__init__.py
+cli_search/search.py
+text_search.egg-info/PKG-INFO
+text_search.egg-info/SOURCES.txt
+text_search.egg-info/dependency_links.txt
+text_search.egg-info/entry_points.txt
+text_search.egg-info/top_level.txt

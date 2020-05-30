@@ -1,0 +1,6 @@
+*.jpeg
+*.xcf
+*.html
+*.DS_Store
+*.pyc
+*.python_history
