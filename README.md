@@ -1,5 +1,5 @@
 # Python Text Search CLI
-(https://www.partialdifferential.com/media/post_cards/cli_text_search.jpeg)
+![CLI](https://www.partialdifferential.com/media/post_cards/cli_text_search.jpeg)
 
 ## What
 This is a basic text search CLI created using the argparse python package. 
